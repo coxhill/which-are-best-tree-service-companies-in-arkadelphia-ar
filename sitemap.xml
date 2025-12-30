@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-
+  
   <!-- Home Page -->
   <url>
     <loc>https://which-are-best-tree-service-companies-in-arkadelphia-ar.vercel.app/</loc>
@@ -9,26 +9,26 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Sections / Anchors -->
+  <!-- Sections Anchors as URLs -->
   <url>
     <loc>https://which-are-best-tree-service-companies-in-arkadelphia-ar.vercel.app/#stump-grinding</loc>
     <lastmod>2025-12-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://which-are-best-tree-service-companies-in-arkadelphia-ar.vercel.app/#tree-stump-root-removal-importance</loc>
     <lastmod>2025-12-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://which-are-best-tree-service-companies-in-arkadelphia-ar.vercel.app/#factors-before-stump-removal</loc>
     <lastmod>2025-12-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
@@ -74,25 +74,32 @@
   </url>
 
   <url>
+    <loc>https://which-are-best-tree-service-companies-in-arkadelphia-ar.vercel.app/#tree-service-guide</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://which-are-best-tree-service-companies-in-arkadelphia-ar.vercel.app/#faqs</loc>
     <lastmod>2025-12-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- External / Important Links -->
+  <!-- External Links -->
   <url>
     <loc>https://elitetreeservicellc.com/</loc>
     <lastmod>2025-12-30</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.google.com/maps?cid=10178229238384810216</loc>
     <lastmod>2025-12-30</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <priority>0.5</priority>
   </url>
 
 </urlset>
